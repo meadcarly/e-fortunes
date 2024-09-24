@@ -1,0 +1,17 @@
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/bin/Debug/net8.0/e-fortunes
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/bin/Debug/net8.0/e-fortunes.deps.json
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/bin/Debug/net8.0/e-fortunes.runtimeconfig.json
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/bin/Debug/net8.0/e-fortunes.dll
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/bin/Debug/net8.0/e-fortunes.pdb
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/e-fortunes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/e-fortunes.AssemblyInfoInputs.cache
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/e-fortunes.AssemblyInfo.cs
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/e-fortunes.csproj.CoreCompileInputs.cache
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/e-fortunes.dll
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/refint/e-fortunes.dll
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/e-fortunes.pdb
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/e-fortunes.genruntimeconfig.cache
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/ref/e-fortunes.dll
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/e-fortunes.csproj.AssemblyReference.cache
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/e-fortunes.csproj.Up2Date

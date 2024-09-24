@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6VwxzT+Q/GrsjzWk3C5Wbp/svXBvZydlC3DbjnfTANas+ZKHdz8H5/AqdO9dJ+aPlFFBFkkFhf4nudHtt+jeQg==",
+  "success": true,
+  "projectFilePath": "/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/e-fortunes.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlymead/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
