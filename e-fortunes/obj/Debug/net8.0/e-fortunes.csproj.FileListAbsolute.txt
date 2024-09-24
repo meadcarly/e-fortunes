@@ -15,3 +15,4 @@
 /Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/e-fortunes.csproj.AssemblyReference.cache
 /Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/e-fortunes.csproj.Up2Date
+/Users/carlymead/Desktop/repos/e-fortunes/e-fortunes/obj/Debug/net8.0/e-fortunes.sourcelink.json
